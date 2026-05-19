@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 😄
+
+I’m Nooblord, a new developer
+
+I’m currently making a discord bot called 'Noobie Helper'
+
+I use 
+<--
+
 
 <!--
 **NoobLordv/NoobLordv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
