@@ -4,8 +4,6 @@ I’m Nooblord, a new developer
 
 I’m currently making a discord bot called 'Noobie Helper'
 
-I use 
-<--
 
 
 <!--
